@@ -35,6 +35,14 @@ resume-analyzer/
 
 ---
 
+## 🌐 Live Demo
+
+Check out the project live on Vercel:  
+[https://resume-analyzer-delta-one.vercel.app/]
+
+
+---
+
 ## How to Run Locally
 
 1. Clone the repository:
